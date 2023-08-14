@@ -21,7 +21,7 @@ const LogIn = () => {
           <input type="checkbox" value="lsRememberMe" id="rememberMe"/> <label for="rememberMe">Remember me</label>
           
 
-          <p>By creating an account you agree to our <a href="#" style={{color:"deep-red"}}>Terms & Privacy</a>.</p>
+          <p>By creating an account you agree to our <a href="/" style={{color:"deep-red"}}>Terms & Privacy</a>.</p>
           <button className="opacity" type="submit">Log In</button>
           </form>
           </div>

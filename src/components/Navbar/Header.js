@@ -18,24 +18,14 @@ export default function Header() {
           <p>basket</p>
             </NavLogo>
             <Bars />
-
             <NavMenu>
-                <NavLink 
-                  to="/home"
-                  activeStyle={{ color:'black' }}
-                >
+                <NavLink  activeStyle={{ color:'black' }}>
                     Home
                 </NavLink>
-                <NavLink 
-                  to="/about"
-                  activeStyle={{ color: 'black' }}
-                >
+                <NavLink  activeStyle={{ color:'black' }}>
                     About
                 </NavLink>
-                <NavLink 
-                  to="/contact" 
-                  activeStyle={{ color: 'black' }}
-                >
+                <NavLink  activeStyle={{ color:'black' }}>
                     Contact
                 </NavLink>
                 <NavBtn>

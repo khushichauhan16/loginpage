@@ -20,6 +20,7 @@ body {
     -moz-transition: background 0.2s ease;
     -ms-transition: background 0.2s ease;
     -o-transition: background 0.2s ease;
+    width:100%;
 }
 h1 {
     font-size: 2.5rem;
